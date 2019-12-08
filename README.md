@@ -1,9 +1,11 @@
-WTF/Account/ 下的目录改成自己账号ID（就是原本WTF/Account下的目录名）
-Account/账号ID#1/碧玉矿洞/ 下的目录改成角色名
+addons bundle for WoW Classic with latest version
 
-进入游戏后弹出ELVUI导航关掉，点ESC，选ELVUI，配置文件，现有的配置文件，碧玉矿洞
+# Usage
 
-TODO:
+1. download [master.zip](https://github.com/BestLanguage/bless-fraternity/archive/master.zip)
+2. remove `Fonts`, `Interface`, `WTF` folders under `{YOUR_WOW_CLASSIC_INSTALL_LOCATION}/_classic_/`
+3. unzip `master.zip` to `{YOUR_WOW_CLASSIC_INSTALLA_LOCATION}/_classic_/`
+4. change folder name under `WTF/Account/` to your account id
+5. change folder name under `WTF/Account/{YOUR_ACCOUNT_ID}/{YOUR_SERVER_NAME}/{YOUR_NAME}`
 
-1. complete README.md
-2. download link
+or just load profiles from `碧玉矿洞 / Devops`
