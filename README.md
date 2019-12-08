@@ -9,3 +9,7 @@ addons bundle for WoW Classic with latest version
 5. change folder name under `WTF/Account/{YOUR_ACCOUNT_ID}/{YOUR_SERVER_NAME}/{YOUR_NAME}`
 
 or just load profiles from `碧玉矿洞 / Devops`
+
+# Screenshot
+
+![Screenshot](https://github.com/BestLanguage/bless-fraternity/raw/master/screentshot-20191208123442.jpg)
