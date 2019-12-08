@@ -1,0 +1,14 @@
+{
+    "target": "curse",
+    "searchName": "Masque: Renaitre",
+    "localName": "Masque_Renaitre",
+    "version": "Masque: Renaitre v7.0.3",
+    "fileName": "masque-renaitre",
+    "addonsMap": [
+        "Masque_Renaitre"
+    ],
+    "interfaceMap": [],
+    "children": [],
+    "name": "Masque: Renaitre",
+    "gameVersion": "7.0.3"
+}

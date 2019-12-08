@@ -1,0 +1,17 @@
+{
+    "target": "curse",
+    "searchName": "ClassicCastbars",
+    "localName": "ClassicCastbars",
+    "version": "v1.0.3-classic",
+    "fileName": "classiccastbars",
+    "addonsMap": [
+        "ClassicCastbars",
+        "ClassicCastbars_Options"
+    ],
+    "interfaceMap": [],
+    "children": [
+        "ClassicCastbars_Options"
+    ],
+    "name": "ClassicCastbars",
+    "gameVersion": "1.13.2"
+}

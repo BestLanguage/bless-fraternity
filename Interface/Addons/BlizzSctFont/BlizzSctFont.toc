@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: |cff3366CCBlizzard |cff00DBBASCT|r Font Switcher
+## DefaultState: Enabled
+## Notes: Switches default blizzard sct font (everywhere).
+## Author: Balkeep
+## Version: 1.1
+BlizzSctFont.lua

@@ -1,0 +1,22 @@
+lightweight tag fb1ca68661a2c6bf452ae3499c3fd19399eb171e 1.0.0.1
+Author:	Yunohu <kernighan@gmail.com>
+Date:	Sun Oct 13 02:17:00 2019 +0000
+
+commit fb1ca68661a2c6bf452ae3499c3fd19399eb171e
+Author: Yunohu <kernighan@gmail.com>
+Date:   Sun Oct 13 02:17:00 2019 +0000
+
+    Version 1.0.0.1
+
+commit 6ca9ba96787b28865022b057fb1a753e0429f638
+Author: Yunohu <kernighan@gmail.com>
+Date:   Sun Oct 13 00:00:15 2019 +0000
+
+    Fix #1 - Localize Hide menu option so it works
+
+commit 2cefac376fff233ebba60cfbf9fe0b8f38ca6a22
+Author: Yunohu <kernighan@gmail.com>
+Date:   Mon Sep 16 21:03:05 2019 +0000
+
+    Fix PlaySound call
+

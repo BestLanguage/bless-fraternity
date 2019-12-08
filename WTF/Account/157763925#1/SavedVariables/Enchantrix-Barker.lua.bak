@@ -1,0 +1,7 @@
+
+EnchantrixBarkerConfig = {
+	["profile.Default"] = {
+	},
+}
+EnchantrixBarkerSavedInfo = {
+}

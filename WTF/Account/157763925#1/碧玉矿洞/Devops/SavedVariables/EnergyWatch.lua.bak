@@ -1,0 +1,7 @@
+
+EnergyWatchConfig = {
+	["barPosY"] = 53.0000228881836,
+	["showAlways"] = false,
+	["barPosX"] = -0.999949216842651,
+	["showHealthBar"] = true,
+}

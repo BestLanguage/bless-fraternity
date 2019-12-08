@@ -1,0 +1,94 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1575098505,
+	["scrollback"] = {
+		["ChatFrame3"] = {
+			{
+				"|cff979797[15:21]|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:愿做你唯一:4:CHANNEL:5|h|cff3fc6ea愿做你唯一|r|h|cffd8d8d8]|r: 收个冬夜长袍，卖的喊一下。", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [1]
+			{
+				"|cff979797[15:21]|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:珊瑚盔向导:5:CHANNEL:5|h|cff3fc6ea珊瑚盔向导|r|h|cffd8d8d8]|r: 血色 军械库 来人 来法师 来猎人 AA队 来得 MMMMMMMMMMMMMMMMMM", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+				false, -- [6]
+				1, -- [7]
+				4, -- [8]
+			}, -- [2]
+			{
+				"|cff979797[15:21]|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:喂丶一诺:10:CHANNEL:5|h|cffc69b6d喂丶一诺|r|h|cffd8d8d8]|r: 死亡矿井自强。来奶和dps！！！！！！！！！！", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+				false, -- [6]
+				1, -- [7]
+				9, -- [8]
+			}, -- [3]
+			{
+				"|cff979797[15:21]|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:丶瞧你小样:11:CHANNEL:5|h|cffc69b6d丶瞧你小样|r|h|cffd8d8d8]|r: 工会|cffffffff<|r|cff00ff00悠然小舍|r|cffffffff>|r招收休闲玩家一起下副本，一起怀旧。欢迎有愿意一起奋战的兄弟姐们一起加入。", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+				false, -- [6]
+				1, -- [7]
+				11, -- [8]
+			}, -- [4]
+			{
+				"|cff979797[15:21]|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:雪拥蓝关:12:CHANNEL:5|h|cff3fc6ea雪拥蓝关|r|h|cffd8d8d8]|r: STSM,AA升级队,来FS，熟练工，不教学MMMMMMMMMMMMMMM55+即可", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+				false, -- [6]
+				1, -- [7]
+				13, -- [8]
+			}, -- [5]
+			{
+				"|cff979797[15:21]|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:周泰:14:CHANNEL:5|h|cffc69b6d周泰|r|h|cffd8d8d8]|r: 深渊JJC   3人队伍   速度来法师   2=1", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+				false, -- [6]
+				1, -- [7]
+				15, -- [8]
+			}, -- [6]
+		},
+	},
+}

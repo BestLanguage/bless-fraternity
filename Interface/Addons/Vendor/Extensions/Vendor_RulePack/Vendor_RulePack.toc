@@ -1,0 +1,8 @@
+## Interface: 80200
+## Title: Vendor_RulesPack
+## Notes: Pawn extension for Vendor. Requires both Pawn and Vendor.
+## Version: 3.5.8
+## Author: Severin & Umferth of Windrunner
+## Dependencies: Vendor
+
+vendorrulepack.lua

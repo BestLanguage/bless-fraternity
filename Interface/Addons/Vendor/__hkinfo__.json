@@ -1,0 +1,17 @@
+{
+    "addonsMap": [
+        "Vendor",
+        "Vendor_Ark"
+    ],
+    "interfaceMap": [],
+    "children": [
+        "Vendor_Ark"
+    ],
+    "localName": "Vendor",
+    "searchName": "Vendor",
+    "name": "Vendor",
+    "fileName": "vendor",
+    "target": "curse",
+    "version": "3.5.8-classic",
+    "gameVersion": "1.13.2"
+}
