@@ -1,4 +1,4 @@
-addons bundle for WoW Classic with latest version
+addons pack for WoW Classic with latest version
 
 # Usage
 
